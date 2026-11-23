@@ -1,0 +1,6 @@
+{
+  "name": "PersonaPulse",
+  "description": "AI-powered customer segmentation platform using RFM feature engineering, PCA dimensionality reduction, and K-Means clustering on retail transaction data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
